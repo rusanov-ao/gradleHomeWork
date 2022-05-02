@@ -1,0 +1,5 @@
+rootProject.name = 'gradleHomeWork'
+include 'db'
+include 'api'
+include 'service'
+
